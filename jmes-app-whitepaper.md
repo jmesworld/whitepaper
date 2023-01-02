@@ -1,6 +1,6 @@
 # JMES App Whitepaper
 
-Andy Freer, Namito Khalaj, Simon Zimmermann
+Andy Freer, Namito Khalaj, Simon Zimmermann, Maciej Sikora
 
 # 1 Introduction
 
