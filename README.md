@@ -3,7 +3,7 @@
 
 # 1 Introduction
 
-JMES is an open-source Aplication-Specific Cryptocurrency created to power JMES World, a decentralized community for art, with the goal of becoming the world's largest decentralized art ecosystem.
+JMES is an open-source Application-Specific Cryptocurrency created to power JMES World, a decentralized community for art, with the goal of becoming the world's largest decentralized art ecosystem.
 
 Based on the Cosmos SDK and connected to Cosmos Hub (IBC), a validator-based blockchain secured using Tendermint consensus powers the native JMES token (symbol: JMES) for use as a currency for art.
 
